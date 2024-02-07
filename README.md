@@ -20,7 +20,12 @@ Al-Qur'an App application created using Flutter, (support null safety using Flut
 
 
 ## Installations
-1. Getting Packages
+1. Create Clone
+```shell
+git clone https://github.com/bri-anadi/al-quran-app.git
+```
+
+2. Getting Packages
 ```shell
 flutter pub get
 ```
