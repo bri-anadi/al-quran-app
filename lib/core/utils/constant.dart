@@ -8,13 +8,6 @@ const readNow = 'Baca Sekarang';
 // login_screen
 const inputName = 'Masukkan Nama';
 const start = 'Mulai';
-// home_screen
-const salam = 'Asslamu’alaikum';
-const name = 'Ratna Nur Azami';
-const lastRead = 'Terakhir Dibaca';
-const numAyah = 'Ayat No:';
-const surah = 'Surah';
-const juz = 'Juz';
 // bookmark_screen
 const bookmark = 'Tersimpan';
 const collection = 'Buat Koleksi';
